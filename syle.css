@@ -350,7 +350,7 @@ display: none;
     }
     .header-text h1{
         font-size: 50px;
-        display:inline-block;
+        display: inline-flex;
     }
 
 
